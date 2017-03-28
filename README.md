@@ -1,6 +1,8 @@
 # Sembly
 
-> Pithy project description
+Social event planning and coordination for groups mobile app.
+
+Checkout screenshots and descriptions at [My Portfolio Site](http://carlosalbertoflores.com/works)
 
 ## Team
 
